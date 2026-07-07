@@ -1,0 +1,12 @@
+[
+  {
+    "ticker": "AAPL",
+    "shares": 10.0,
+    "purchase_price": 150.25
+  },
+  {
+    "ticker": "MSFT",
+    "shares": 5.0,
+    "purchase_price": 310.0
+  }
+]
